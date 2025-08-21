@@ -39,7 +39,7 @@ Optimizer: Adam
 ## 🏃‍♂️ How to Run
 
 1. Clone this repository:  
-   git clone https://github.com/Rishvy/ASL.git  
+   git clone https://github.com/shifanthottoli/ASL---Recogniton.git  
    cd ASL  
 
 2. (Optional) Install dependencies:  
